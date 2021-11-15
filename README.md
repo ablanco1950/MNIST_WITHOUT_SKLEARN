@@ -19,6 +19,9 @@ Also included is the MNIST_Numpy_linalg.py module that makes use of Numpy's lina
 References:
 
 https://www.kaggle.com/oddrationale/mnist-in-csv
+
 https://stackoverflow.com/questions/1871536/minimum-euclidean-distance-between-points-in-two-different-numpy-arrays-not-wit
+
 https://programmerclick.com/article/87201087090/
+
 https://github.com/ablanco1950/MNIST_KNN
