@@ -5,8 +5,11 @@ Although with a longer execution time.
 Functioning:
 
 It is required that on disk C: you will find the files:
+
 mnist_train.csv
+
 mnist_test.csv
+
 downloaded from
 https://www.kaggle.com/oddrationale/mnist-in-csv
 
