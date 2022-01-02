@@ -1,5 +1,5 @@
 # MNIST_WITHOUT_SKLEARN
-The MNIST_Scipy.py module is presented which, using the Scipy library, is applied to the recognition of handwritten characters contained in the MNIST file, achieving a better hit rate than the module referenced at https://github.com/ablanco1950/MNIST_KNN
+The MNIST_Scipy.py module is presented which, using the Scipy library, is applied to the recognition of handwritten characters contained in the MNIST file, achieving a better hit rate (greater than 99%) than the module referenced at https://github.com/ablanco1950/MNIST_KNN
 Although with a longer execution time.
 
 Functioning:
@@ -16,6 +16,9 @@ https://www.kaggle.com/oddrationale/mnist-in-csv
 The program is run from Spyder:
 
 MNIST_Scipy.py
+
+The records of the test file can be selected by modifying the parameters ContMaxTest, how many records of the test records 
+are tested (on line 8 of the program) and StartTest, beginning record of the test file to be tested, (line 10 of the program)
 
 Also included is the MNIST_Numpy_linalg.py module that makes use of Numpy's linalg method, although with higher execution times-
 
